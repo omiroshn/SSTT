@@ -1,4 +1,6 @@
 # SSTT
+Wrote it in 30 mins, so dont blame my design choises😄
+
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <img src="https://github.com/omiroshn/SSTT/blob/main/screenshots/Picture%201.png" width="48%" />
